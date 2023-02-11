@@ -1,4 +1,5 @@
 ### Distributed home temperature measurement system
+⭐ Do not forget to give a star on GitHub!
 ## Bartłomiej Gordon INF sem 5
 
 A device used for distributed temperature measurement at home with the possibility of adding more boards to the system.
